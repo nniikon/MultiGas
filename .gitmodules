@@ -1,0 +1,3 @@
+[submodule "external/tgp"]
+	path = external/tgp
+	url = git@github.com:nniikon/TGP.git
